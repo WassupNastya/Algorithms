@@ -4,3 +4,6 @@
   <li>Open Addresing (with random number of strings) </li>
   <li>Separate Chaining (with random number of strings)</li>
 </ul>
+
+<h3> Slider puzzle </br> </h3>
+Simulator of the game 'Slider puzzle'
