@@ -5,7 +5,7 @@
   <li>Separate Chaining (with random number of strings)</li>
 </ul>
 
-<h3> Slider puzzle </br> </h3><ul>
+<h3> Slider puzzle </br> </h3>
 <ul>
-<li>Simulator of the game 'Slider puzzle'</li>
+  <li>Simulator of the game 'Slider puzzle'</li>
 </ul>
