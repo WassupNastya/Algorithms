@@ -6,4 +6,4 @@
 </ul>
 
 <h3> Slider puzzle </br> </h3>
-Simulator of the game 'Slider puzzle'
+*Simulator of the game 'Slider puzzle'
