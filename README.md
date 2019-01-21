@@ -1,4 +1,4 @@
-<h2>Home Assignments from the course "Algorithms and Data Structures" </h2>
+<h2>Home Assignments from the course 'Algorithms and Data Structures' </h2>
 <h3> Hashing </br> </h3>
 <ul>
   <li>Open Addresing (with random number of strings) </li>
