@@ -8,5 +8,5 @@
 <h3> Slider puzzle </br> </h3>
 <ul>
   <li>Simulator of the game 'Slider puzzle'</li>
-  The input is a string of 8 characters. The string is converted into the playing field 3 * 3. In the course of the program, the characters are like chips in the game 'Slider Puzzle' are arranged in the correct sequence.
+  <i>The input is a string of 8 characters. The string is converted into the playing field 3 * 3. In the course of the program, the characters are like chips in the game 'Slider Puzzle' are arranged in the correct sequence.</i>
 </ul>
