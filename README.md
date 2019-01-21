@@ -14,5 +14,11 @@
 <h3> Find The Way With Bombs </br> </h3>
 <ul>
   <li>Simulator of the game 'Horse, food, obstacles and bombs'</li>
-  <i>There is a field with several obstacles. The main character is horse, which strives to get food in one of the cell fields. The input is a number of bombs, which help horse to blow up obstacles. The result of the program is the shortest path from the starting point to the final one with the minimum number of bombs used.</i>
+  <i>There is a field with several obstacles. The main character is horse, which strives to get food in one of the cell fields. The input is a number of bombs, which help horse to blow up obstacles. The result of the program is the shortest path from the starting point to the final one with the minimum number of bombs used. Attached file 'text.txt' contains field with obstacles. </i>
+</ul>
+
+<h3> Crazy Horse </br> </h3>
+<ul>
+  <li>Simulator of the game 'Crazy Horse and food'</li>
+  <i>There is a field. The main character is horse, which strives to get food in one of the cell fields. The result of the program is the shortest path from the starting point to the final one. Wide search algorithm. </i>
 </ul>
